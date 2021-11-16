@@ -6,4 +6,6 @@ The code assumes, that the working directory contains following objects:
 2. **pat_S_seq.rds** - the list of analysed aminoacid changing mutations (all that viral genome accumulated during the study period);
 3.  **russian.fa** - SARS-CoV2 genome, sampled from the patient;
 4.  **found_june1.txt** - known epitopes, immunogenic on patient-specific hla alleles from Immune Epitope Database;
-5.  **allele_freq.txt** - worldwild frequency of hla alleles analysed. 
+5.  **allele_freq.txt** - worldwild frequency of hla alleles analysed.
+
+**net_pan** directory includes examples of netMHCpan and netMHCIIpan outputs, produced by commands in a script.
